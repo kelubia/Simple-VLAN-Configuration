@@ -1,4 +1,5 @@
 # Simple-VLAN-Configuration
+A VLAN configuration and isolation of multiple devices on a single network divided by two Switches
 
 We have four end devices and two switches on the same local network, 10.0.0./24.
 we can isolate devices at layer 2 using VLAN.
